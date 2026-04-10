@@ -4,7 +4,18 @@ Subnetting practice and CIDR calculations
 
 ## Objective
 The objective of this project is to understand subnetting, CIDR notation, subnet masks, and host calculations in networking.
-[cidr-subnetting-table.png] 
+## 🌐 Subnetting Concept
+
+![Subnetting Chart](cidr-subnetting-table.png)
+
+### 📌 Example Calculation
+
+- IP Address: 192.168.1.0/24  
+- Subnet Mask: 255.255.255.0  
+- Number of Hosts: 254  
+
+**Insight:**  
+This network can be divided into smaller subnets to improve security and traffic management.
 
 ## Topics Covered
 - Class A, B, C IP addresses
